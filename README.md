@@ -33,3 +33,8 @@ Are you ready to embark on an exhilarating journey into the world of Go programm
 
 - [Code](tutorial/conditional%20statements/main.go)
 - [Explanation](tutorial/conditional%20statements/logic.md)
+
+7. [Arrays](tutorial/arrays)
+
+- [Code](tutorial/arrays/main.go)
+- [Explanation](tutorial/arrays/logic.md)
