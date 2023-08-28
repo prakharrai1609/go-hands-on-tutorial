@@ -22,7 +22,7 @@ readme_file="README.md"
 
 cat << EOF >> "$readme_file"
 
-## $folder_name
+## [$folder_name]
 
 - [Code](tutorial/$folder_name/main.go)
 - [Explanation](tutorial/$folder_name/logic.md)

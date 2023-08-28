@@ -23,3 +23,5 @@ Two floating-point numbers, `dividend` and `divisor`, are divided using the `/` 
 - **Logical NOT**: The `!` operator is used to invert the value of `condition1`, and the result is shown.
 
 This code offers a brief introduction to essential Go programming concepts, including operations with strings, numbers, and logical values.
+
+Let's move onto [Data Types](../variables/logic.md)

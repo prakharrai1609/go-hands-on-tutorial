@@ -11,3 +11,5 @@ Let's break down the code step by step:
 So, when you put all these parts together and run the program, it will do just one thing: show the words "hello world" on your screen.
 
 It's like telling the computer, "Hey computer, I want you to show me the words 'hello world'." And the computer follows your instructions and shows those words to you!
+
+Let's move onto [Data Types](../data%20types/logic.md)
