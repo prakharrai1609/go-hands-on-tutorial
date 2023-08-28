@@ -38,3 +38,8 @@ Are you ready to embark on an exhilarating journey into the world of Go programm
 
 - [Code](tutorial/arrays/main.go)
 - [Explanation](tutorial/arrays/logic.md)
+
+. [Slices](tutorial/slices)
+
+- [Code](tutorial/slices/main.go)
+- [Explanation](tutorial/slices/logic.md)
