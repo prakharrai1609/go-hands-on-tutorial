@@ -19,3 +19,13 @@ func main() {
 	favoriteFruit := "banana"
 	fmt.Println(favoriteFruit)
 }
+
+/*
+$ go run tutorial/variables/main.go
+
+John
+25 180
+false
+1.234
+banana
+*/
