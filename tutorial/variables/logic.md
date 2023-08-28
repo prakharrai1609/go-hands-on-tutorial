@@ -1,3 +1,4 @@
+**Code:**
 
 ```go
 func main() {
@@ -40,3 +41,5 @@ func main() {
 10. `fmt.Println(favoriteFruit)`: Prints the value of the `favoriteFruit` variable ("banana") to the console.
 
 In this code, variables are declared and initialized with different data types (string, int, bool, float64) and assigned various values. The `fmt.Println()` function is used to display the values of these variables in the console.
+
+***Let's move onto [Constants](../constants/logic.md)***
