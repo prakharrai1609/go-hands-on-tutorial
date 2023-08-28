@@ -2,6 +2,10 @@
 
 Are you ready to embark on an exhilarating journey into the world of Go programming? Look no further – you've just stumbled upon the ultimate resource to kickstart your Golang adventure!
 
+## Want to have a better learning experience?
+
+⚡️ If you're interested in following along the whole tutorial in a structured way, click [here](https://prakharrai1609.github.io/go-hands-on-tutorial/)!
+
 ## 🚀 Let's start learning without any further ado.
 
 1. [Let's write a hello world!](tutorial/hello%20world/)
