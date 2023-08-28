@@ -27,7 +27,6 @@ cat << EOF >> "$readme_file"
 
 - [Code](tutorial/$folder_name/main.go)
 - [Explanation](tutorial/$folder_name/logic.md)
-- [Input/Output](tutorial/$folder_name/io.md)
 EOF
 
 echo "README updated."
