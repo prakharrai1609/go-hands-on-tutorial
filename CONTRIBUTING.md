@@ -6,7 +6,7 @@ Welcome to the go-hands-on-tutorial repository! We're excited that you're intere
 
 1. Fork the repository on GitHub.
 2. Clone your forked repository to your local machine.
-3. Run the `./run.sh` script in the root directory with the desired module name. This will initialize a module in the `tutorial` directory and create an entry in the readme.
+3. Run the `./run.sh <new_module_name>` script in the root directory with the desired module name. This will initialize a module in the `tutorial` directory and create an entry in the readme.
 4. Make sure your code is well-tested and follows the coding standards of the project.
 
 ## Contributing Guidelines
