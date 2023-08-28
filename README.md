@@ -14,7 +14,7 @@ Are you ready to embark on an exhilarating journey into the world of Go programm
 - [Explaination](tutorial/data%20types/logic.md)
 - [Input/Output](tutorial/data%20types/io.md)
 
-3. variables
+3. [Variables](tutorial/variables/)
 
 - [Code](tutorial/variables/main.go)
 - [Explanation](tutorial/variables/logic.md)
