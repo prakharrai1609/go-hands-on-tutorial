@@ -24,4 +24,4 @@ So, when you put all these parts together and run the program, it will do just o
 
 It's like telling the computer, "Hey computer, I want you to show me the words 'hello world'." And the computer follows your instructions and shows those words to you!
 
-<strong>Let's move onto [Data Types](../data%20types/logic.md)</strong>
+**_Let's move onto [Data Types](../data%20types/logic.md)_**
