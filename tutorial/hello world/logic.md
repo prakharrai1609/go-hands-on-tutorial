@@ -10,7 +10,7 @@ func main() {
 }
 ```
 
-Let's break down the code step by step:
+Let's break down the code step by stepppppp:
 
 1. **Package Declaration**: The first line `package main` tells the computer that this code is part of a package named "main". A package is like a collection of code that serves a specific purpose. In this case, the package named "main" is a special package because it contains the `main` function, which is the entry point of the program.
 
