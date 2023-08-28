@@ -7,4 +7,4 @@ Are you ready to embark on an exhilarating journey into the world of Go programm
 1. [Let's write a hello world!](tutorial/hello%20world/)
 - [Code](tutorial/hello%20world/main.go)
 - [Explaination](tutorial/hello%20world/logic.md)
-- [Input/Output](tutorial/hello%20world/io.txt)
+- [Input/Output](tutorial/hello%20world/io.md)
