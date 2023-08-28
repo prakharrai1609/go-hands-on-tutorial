@@ -21,8 +21,8 @@ echo "Folder 'tutorial/$folder_name' created and initialized with files."
 readme_file="README.md"
 
 cat << EOF >> "$readme_file"
-
-## [$folder_name]
+capitalizedName="${folder_name^}"
+## [$capitalizedName]
 
 - [Code](tutorial/$folder_name/main.go)
 - [Explanation](tutorial/$folder_name/logic.md)
