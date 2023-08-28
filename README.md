@@ -20,3 +20,26 @@ Are you ready to embark on an exhilarating journey into the world of Go programm
 - [Explanation](tutorial/variables/logic.md)
 - [Input/Output](tutorial/variables/io.md)
 
+4. [Constants](tutorial/constants)
+
+- [Code](tutorial/constants/main.go)
+- [Explanation](tutorial/constants/logic.md)
+- [Input/Output](tutorial/constants/io.md)
+
+5. [For](tutorial/For)
+
+- [Code](tutorial/For/main.go)
+- [Explanation](tutorial/For/logic.md)
+- [Input/Output](tutorial/For/io.md)
+
+6. [If/Else](tutorial/If/Else)
+
+- [Code](tutorial/If/Else/main.go)
+- [Explanation](tutorial/If/Else/logic.md)
+- [Input/Output](tutorial/If/Else/io.md)
+
+7. [If-Else](tutorial/If-Else)
+
+- [Code](tutorial/If-Else/main.go)
+- [Explanation](tutorial/If-Else/logic.md)
+- [Input/Output](tutorial/If-Else/io.md)

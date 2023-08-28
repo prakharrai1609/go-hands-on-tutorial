@@ -6,6 +6,7 @@ if [ "$#" -ne 1 ]; then
 fi
 
 folder_name="$1"
+folder_name_capitalized="$(tr '[:lower:]' '[:upper:]' <<< ${folder_name:0:1})${folder_name:1}"
 
 # Create the folder
 mkdir tutorial/"$folder_name"
@@ -21,13 +22,12 @@ echo "Folder 'tutorial/$folder_name' created and initialized with files."
 readme_file="README.md"
 
 cat << EOF >> "$readme_file"
-capitalizedName="${folder_name^}"
-## [$capitalizedName]
+
+. [$folder_name_capitalized](tutorial/$folder_name)
 
 - [Code](tutorial/$folder_name/main.go)
 - [Explanation](tutorial/$folder_name/logic.md)
 - [Input/Output](tutorial/$folder_name/io.md)
-
 EOF
 
 echo "README updated."
