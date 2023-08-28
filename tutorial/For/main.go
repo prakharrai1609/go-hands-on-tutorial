@@ -4,40 +4,38 @@ import "fmt"
 
 func main() {
 
-	i := 1
-	for i <= 3 {
-		fmt.Println(i)
-		i = i + 1
-	}
-
 	for j := 7; j <= 9; j++ {
 		fmt.Println(j)
 	}
 
+	var count int = 0
 	for {
-		fmt.Println("loop")
-		break
+		fmt.Printf("This is the infinite loop counter, id %d\n", count)
+		count += 1
+		if count > 5 {
+			break
+		}
 	}
 
-	for n := 0; n <= 5; n++ {
-		if n%2 == 0 {
-			continue
-		}
-		fmt.Println(n)
+	m := map[string]int{"foo": 1, "bar": 2}
+
+	for key, value := range m {
+		fmt.Println("key: ", key, ", value: ", value)
 	}
 }
 
 /*
 $ go run tutorial/for/main.go
 
-1
-2
-3
 7
 8
 9
-loop
-1
-3
-5
+This is the infinite loop counter, id 0
+This is the infinite loop counter, id 1
+This is the infinite loop counter, id 2
+This is the infinite loop counter, id 3
+This is the infinite loop counter, id 4
+This is the infinite loop counter, id 5
+key:  foo , value:  1
+key:  bar , value:  2
 */

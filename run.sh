@@ -14,7 +14,6 @@ mkdir tutorial/"$folder_name"
 # Create and populate files
 touch "tutorial/$folder_name/main.go"
 touch "tutorial/$folder_name/logic.md"
-touch "tutorial/$folder_name/io.md"
 
 echo "Folder 'tutorial/$folder_name' created and initialized with files."
 
