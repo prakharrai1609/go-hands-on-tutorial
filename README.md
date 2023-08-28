@@ -29,7 +29,7 @@ Are you ready to embark on an exhilarating journey into the world of Go programm
 - [Code](tutorial/For/main.go)
 - [Explanation](tutorial/For/logic.md)
 
-6. [If-Else](tutorial/If-Else)
+6. [Conditional statements](tutorial/conditional%20statements)
 
-- [Code](tutorial/If-Else/main.go)
-- [Explanation](tutorial/If-Else/logic.md)
+- [Code](tutorial/conditional%20statements/main.go)
+- [Explanation](tutorial/conditional%20statements/logic.md)

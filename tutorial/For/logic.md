@@ -56,4 +56,4 @@ In Go, the `for` loop is used to repeat a block of code multiple times. It's a f
 
 The `for` loop is an essential part of programming because it allows you to automate repetitive tasks and manage iterations effectively.
 
-***Now let's move onto [If else statements!](../If-Else/logic.md)***
+***Now let's move onto [Conditional statements!](../conditional%20statements/logic.md)***
