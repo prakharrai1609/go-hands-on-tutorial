@@ -10,6 +10,6 @@ Are you ready to embark on an exhilarating journey into the world of Go programm
 - [Input/Output](tutorial/hello%20world/io.md)
 
 2. [Let's write a hello world!](tutorial/hello%20world/)
-- [Code](tutorial/hello%20world/main.go)
-- [Explaination](tutorial/hello%20world/logic.md)
-- [Input/Output](tutorial/hello%20world/io.md)
+- [Code](tutorial/data%20types/main.go)
+- [Explaination](tutorial/data%20types/logic.md)
+- [Input/Output](tutorial/data%20types/io.md)
