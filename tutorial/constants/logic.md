@@ -30,5 +30,3 @@ In this example, we declare a constant named `pi` with the value `3.14159`. Once
 Then we declare two more constants, `daysInWeek` and `hoursInDay`, using a technique called "constant grouping." These constants hold the values `7` and `24` respectively.
 
 By using constants, you make your code more readable and maintainable because you give meaningful names to values that won't change.
-
-***Now let's move onto [FOR](../For/logic.md)***

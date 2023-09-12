@@ -68,5 +68,3 @@ func main() {
 Here, based on the value of `day`, the `switch` statement executes the block of code that matches the corresponding case.
 
 These conditional statements are essential for making your programs dynamic and responsive to different situations. They allow your code to take different paths depending on the conditions you set.
-
-**_Let's move onto [Arrays in GO](../arrays/logic.md)_**

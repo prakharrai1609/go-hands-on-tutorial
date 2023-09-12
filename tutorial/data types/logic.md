@@ -65,4 +65,3 @@ Two floating-point numbers, `dividend` and `divisor`, are divided using the `/` 
 
 This code offers a brief introduction to essential Go programming concepts, including operations with strings, numbers, and logical values.
 
-***Let's move onto [Variables](../variables/logic.md)***
