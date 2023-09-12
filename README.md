@@ -28,10 +28,10 @@ Are you ready to embark on an exhilarating journey into the world of Go programm
 - [Code](tutorial/constants/main.go)
 - [Explanation](tutorial/constants/logic.md)
 
-5. [For](tutorial/For)
+5. [For](tutorial/for)
 
-- [Code](tutorial/For/main.go)
-- [Explanation](tutorial/For/logic.md)
+- [Code](tutorial/for/main.go)
+- [Explanation](tutorial/for/logic.md)
 
 6. [Conditional statements](tutorial/conditional%20statements)
 
